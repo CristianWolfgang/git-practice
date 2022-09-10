@@ -1,2 +1,1 @@
-alert("EA SPORTS");
-alert("IT'S IN GAME");
+alert("HOTLINE MIAMI 2 \n Wrong Number");
